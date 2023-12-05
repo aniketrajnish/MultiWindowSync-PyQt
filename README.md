@@ -10,6 +10,10 @@ https://github.com/aniketrajnish/MultiWindowSync-PyQt/assets/58925008/feef78fa-a
   ```
   https://github.com/aniketrajnish/MultiWindowSync-PyQt.git
   ```
+* Open Terminal and change directory to the script's folder.
+  ```
+  cd <path-to-repo>\src
+  ```
 * Install Dependencies
   ```
   pip install -r requirements.txt
