@@ -26,7 +26,7 @@ https://github.com/aniketrajnish/MultiWindowSync-PyQt/assets/58925008/feef78fa-a
   ```
   File -> Open Image/GIF
   ```
-* In case you don't wanna go through all of this hassle, I've added an exeutable file in the [Releases Section](https://github.com/aniketrajnish/MultiWindowSync-PyQt/releases/tag/v001) that you can directly try.
+* In case you don't wanna go through all of this hassle, I've added an exeutable file in the [Releases Section](https://github.com/aniketrajnish/MultiWindowSync-PyQt/releases/tag/v001) that you can directly try on your machine.
   
 ## Contributing
 Contributions to the project are welcome. Currently working on:
