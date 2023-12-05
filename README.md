@@ -3,7 +3,7 @@
   * It demonstrates the synchronization of multiple windows using `pyqtSignal`. <br>
   * Inspired by the [work](https://twitter.com/_nonfigurativ_/status/1727322594570027343) of Bjørn Staal. 
 
-https://github.com/aniketrajnish/MultiWindowSync-PyQt/assets/58925008/feef78fa-affb-443f-a4a2-a659bd63f991
+https://github.com/aniketrajnish/MultiWindowSync-PyQt/assets/58925008/e00e10e9-6373-46d8-9669-77466ee8bd90
 
 ## Usage
 * Clone the repository
