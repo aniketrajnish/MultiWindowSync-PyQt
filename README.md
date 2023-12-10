@@ -8,7 +8,7 @@ https://github.com/aniketrajnish/MultiWindowSync-PyQt/assets/58925008/e00e10e9-6
 ## Usage
 * Clone the repository
   ```
-  https://github.com/aniketrajnish/MultiWindowSync-PyQt.git
+  git clone https://github.com/aniketrajnish/MultiWindowSync-PyQt.git
   ```
 * Open Terminal and change directory to the script's folder.
   ```
